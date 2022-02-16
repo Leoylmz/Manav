@@ -1,0 +1,30 @@
+html
+.header {
+    position: relative;
+    text-align: center;
+}
+.content {
+    position: relative;
+    text-align: center;
+}
+body {
+    background-color: rgb(235, 120, 67);
+    font-family: "Open Sans", sans-serif;
+}
+
+.navbar{
+    position: relative;
+    text-align: center;
+}
+
+.image{
+    width: 250px;
+    height: 250px;
+    display: block;
+    margin: auto;
+}
+
+.list {
+    list-style-position: inside;
+    text-align: center;
+}
